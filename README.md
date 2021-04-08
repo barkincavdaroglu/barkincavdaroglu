@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on distributed optimization algorithms.
+- 🔭 I’m an undergraduate researcher currently working on distributed optimization algorithms.
 - 🌱 I’m currently learning evolutionary game theory, differential equations, and machine learning.
 - 😄 Pronouns: he/him/his
 <!--
