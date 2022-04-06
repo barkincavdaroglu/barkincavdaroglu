@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m an undergraduate researcher working on distributed optimization algorithms.
-- 🌱 I’m currently learning evolutionary game theory, differential equations, and machine learning.
+- 🔭 I’m an incoming SWE intern at Meta AI.
+- 🌱 I’m currently learning probability and graph theory.
 - 😄 Pronouns: he/him/his
 <!--
 **barkincavdaroglu/barkincavdaroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
