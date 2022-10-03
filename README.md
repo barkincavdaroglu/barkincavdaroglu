@@ -1,8 +1,4 @@
-### Hi there 👋
-- 🔭 I’m an incoming SWE intern at Meta AI.
-- 🌱 I’m currently learning probability and graph theory.
-- 😄 Pronouns: he/him/his
-<!--
+
 **barkincavdaroglu/barkincavdaroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
