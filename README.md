@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on distributed optimization.
-- 🌱 I’m currently learning evolutionary game theory, differential equations, and machine learning.
+- 🔭 I’m currently working on temporal link prediction with graph neural networks.
+- 🌱 I’m currently learning loss landscape analysis, transformers and probabilistic analysis.
 - 😄 Pronouns: he/him/his
 
