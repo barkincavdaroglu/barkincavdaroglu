@@ -14,9 +14,6 @@
 
 
 <div >
-  <a href="https://github.com/barkincavdaroglu/github-readme-stats">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=barkincavdaroglu&count_private=true&include_all_commits=true&show_icons=true" />
-  </a>
   <a href="https://github.com/barkincavdaroglu/convoychat">
     <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkincavdaroglu&layout=compact&langs_count=6&hide=css,html" />
   </a>
