@@ -13,7 +13,7 @@
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>
 
 
-<div align="center" >
+<div >
   <a href="https://github.com/barkincavdaroglu/github-readme-stats">
     <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=barkincavdaroglu&count_private=true&include_all_commits=true&show_icons=true" />
   </a>
