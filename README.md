@@ -1,8 +1,10 @@
+<h2> About Me </h2>
+
 - 🔭 I’m currently working on temporal link prediction with graph neural networks.
 - 🌱 I’m currently learning loss landscape analysis, transformers and probabilistic analysis.
 - 😄 Pronouns: he/him/his
 
-**Languages and Tools:**  
+<h2> Languages and Tools: </h2>
 
 <code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -16,10 +18,8 @@
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenaHW13DG0WIxuTpSsBc4h4WBYZE6YImSZkuP0JMiSlItWoR39lvgznbqoO58OnuCJg&usqp=CAU"></code>
 <code><img height="50" src="https://static-00.iconduck.com/assets.00/rust-icon-512x511-cfvdvrfr.png"></code>
 
+<h2>📈 Weekly Stats:</h2>
 <div >
-  <a href="https://github.com/barkincavdaroglu/convoychat">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barkincavdaroglu&layout=compact&langs_count=6&hide=css,html" />
-  </a>
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=04bfcccf-33e4-41ff-ba3b-ed484fcc1b15">
     <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=04bfcccf-33e4-41ff-ba3b-ed484fcc1b15" />
   </a>
