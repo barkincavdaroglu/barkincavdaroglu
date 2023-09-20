@@ -1,7 +1,7 @@
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on temporal link prediction with graph neural networks.
-- 🌱 I’m currently learning loss landscape analysis, transformers and probabilistic analysis.
+- 🔭 I’m currently working on explaining graph neural networks.
+- 🌱 I’m currently learning determinantal point processes.
 - 😄 Pronouns: he/him/his
 
 <h2> Languages and Tools: </h2>
