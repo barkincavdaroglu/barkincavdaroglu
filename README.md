@@ -18,9 +18,3 @@
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenaHW13DG0WIxuTpSsBc4h4WBYZE6YImSZkuP0JMiSlItWoR39lvgznbqoO58OnuCJg&usqp=CAU"></code>
 <code><img height="50" src="https://static-00.iconduck.com/assets.00/rust-icon-512x511-cfvdvrfr.png"></code>
 
-<h2>📈 Weekly Stats:</h2>
-<div >
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=04bfcccf-33e4-41ff-ba3b-ed484fcc1b15">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=04bfcccf-33e4-41ff-ba3b-ed484fcc1b15" />
-  </a>
-</div>
