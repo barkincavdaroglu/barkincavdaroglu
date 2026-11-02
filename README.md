@@ -1,7 +1,7 @@
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on explaining graph neural networks.
-- 🌱 I’m currently learning determinantal point processes, Riemannian geometry, and geometric explanations for GNNs.
+- 🔭 I’m currently working on explaining neural networks.
+- 🌱 I’m currently a machine learning engineer at Meta.
 - 😄 Pronouns: he/him/his
 
 <h2> Languages and Tools: </h2>
